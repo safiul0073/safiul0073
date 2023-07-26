@@ -6,7 +6,7 @@
 - 📫 practicing dynamic programming, AI, ML, NLP, CNN
 - ## Email: safiul7303@gmail.com
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=safiul-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=safiul0073)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
