@@ -7,6 +7,5 @@
 - 📫 Currently learning AI using python, 
 - ## Email: safiul0073@gmail.com
 
-#[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=safiul0073)](https://github.com/anuraghazra/github-readme-stats)
 
 
