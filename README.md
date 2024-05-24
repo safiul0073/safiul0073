@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on new thinks also on trending 
 - 📫 Currently working as full stack develper useing Laravel, Node.js, Next.js
 - 📫 Currently learning AI using python, 
-- ## Email: safiul0073@gmail.com
+- ## Email: mdsafiul0073@gmail.com
 
 
 
