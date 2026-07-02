@@ -28,9 +28,11 @@ My main focus is **backend development, API systems, SaaS platforms, and AI-powe
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=safiul0073&show_icons=true&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safiul0073&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safiul0073&layout=compact&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=safiul0073&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=safiul0073&theme=tokyonight)
 
 ---
 
