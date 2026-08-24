@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Md Safiullah
 
-### Backend-Focused Full-Stack Developer | AI Automation and ChatBot
+### Backend-Focused Full-Stack Developer | AI Automation and ChatBot (RAG)
 
 I build web applications using **Laravel, Node.js, Nests.js Next.js, React, and Vue.js**.
 My main focus is **backend development, API systems, SaaS platforms, and AI-powered automation**.
@@ -9,7 +9,7 @@ My main focus is **backend development, API systems, SaaS platforms, and AI-powe
 
 ## 🚀 What I Work With
 
-* Backend: Laravel, PHP, Node.js, Express.js, Nest.js
+* Backend: Laravel, PHP, Node.js, Express.js, Nest.js, FastAPI
 * Frontend: Next.js, React.js, Vue.js, Tailwind CSS
 * Database: MySQL, PostgreSQL, MongoDB, Redis
 * AI: Python, AI Automation, LLM Integration
@@ -22,7 +22,7 @@ My main focus is **backend development, API systems, SaaS platforms, and AI-powe
 * Backend-heavy full-stack development
 * SaaS application development
 * AI automation 
-* API and database architecture
+* Agentic Design and Coding with Automate daily life work.
 
 ---
 
